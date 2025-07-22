@@ -1,0 +1,27 @@
+#EXTM3U
+
+#EXTINF:0 tvg-country="SV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7q5T8nOwH_drjytNi7djRxjWyPzMx6U_qVPO6NZsgxKUn4fKrKTgpkYcevg1F6eS1wKo&usqp=CAU" group-title="Undefined",Canal 11 TuTV
+https://stream.giostreaming.net:19360/canal11/canal11.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://pbs.twimg.com/profile_images/1761972439863402496/HYFYy2Zg_400x400.jpg" group-title="Undefined",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:0 tvg-country="SV" tvg-logo="https://pbs.twimg.com/profile_images/1715430427618385920/7M2WtIEE_200x200.jpg" group-title="Undefined",Canal 12
+https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="SV" tvg-logo="https://d21tucfpen3j82.cloudfront.net/wp-content/uploads/2024/11/22122126/Canal-2-1080x1080-1.jpg" group-title="Undefined",Canal 2
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+
+#EXTINF:0 tvg-country="SV" tvg-logo="https://d21tucfpen3j82.cloudfront.net/wp-content/uploads/2024/11/22122117/Canal-TCSPLUS-1080x1080-1.jpg" group-title="Undefined",Canal TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://d4.alternativeto.net/8_AFS39CLaRatu9lZrN11teTDDk5G1iszVwZfIJY64s/rs:fit:280:280:0/g:ce:0:0/exar:1/YWJzOi8vZGlzdC9pY29ucy90YWl5YWtpLWFueW1leC0tYW5pbWUtZ2xhcmUtLWthdHN1XzE4NDIzOS5wbmc.png" group-title="Anime",Anime Zone
+http://animezonetv.net/hls/stream.m3u8
+
+#EXTINF:0 tvg-country="SV" tvg-logo="https://static.gameloop.com/img/cab2f22c7d6c45aae930b298fa5f8564.png" group-title="Undefined",WOW!TV HD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8?checkedby:dailyfreeiptvlist.com&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Cine_Sony_Logo.png" group-title="Movies",Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+
